@@ -64,3 +64,14 @@ ol {
 ul {
   margin-bottom: 0in;
 }
+.balldiv {
+  background: brown;
+  height: 0px;
+  width: 0px;
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.5;
+  /* height: 8px;
+  width: 8px;
+  background-image: url("https://distant.tsi.lv/pluginfile.php/1/theme_lambda/logo/1649928462/logo_h_lv_rgb%20%282%29.png"); */
+}
